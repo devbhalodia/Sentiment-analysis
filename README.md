@@ -1,6 +1,4 @@
 # Sentiment Analysis using Two Methods
-
-# This project involves performing sentiment analysis using two different approaches:
 1. Integer Encoding with Neural Networks
 2. Embedding Layer with Neural Networks
    
